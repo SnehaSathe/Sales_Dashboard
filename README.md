@@ -83,7 +83,7 @@ The dashboard incorporates **Power BI Manage Roles** functionality to ensure sec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/VetMedMan-Sales-Dashboard.git
+   git clone https://github.com/yourusername/Sales-Dashboard.git
    ```
 2. Open the Power BI `.pbix` file.
 3. Connect the data sources (employee-specific data files).
