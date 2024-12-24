@@ -1,4 +1,3 @@
-Here's an updated version of the **README.md** file, including a section on managing roles and implementing restrictions in Power BI.
 
 ```markdown
 # Acme Corporation Sales Dashboard
