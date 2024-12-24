@@ -1,11 +1,11 @@
 Here's an updated version of the **README.md** file, including a section on managing roles and implementing restrictions in Power BI.
 
 ```markdown
-# VetMedMan Sales Dashboard
+# Acme Corporation Sales Dashboard
 
 ## Overview
 
-The **VetMedMan Sales Dashboard** is a dynamic Power BI dashboard designed to analyze and track the performance of the sales department. It provides insights into lead outreach, engagement, qualification, and deal closures. With advanced role-based access, this dashboard ensures data security and restricted access based on user roles.
+The **Acme Corporation Sales Dashboard** is a dynamic Power BI dashboard designed to analyze and track the performance of the sales department. It provides insights into lead outreach, engagement, qualification, and deal closures. With advanced role-based access, this dashboard ensures data security and restricted access based on user roles.
 
 ---
 
